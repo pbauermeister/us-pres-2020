@@ -1,0 +1,1978 @@
+{
+  "AK": {
+    "candidates": [
+      {
+        "electWon": 3,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 56.9,
+        "votes": 148624
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 39.1,
+        "votes": 102080
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 2.5,
+        "votes": 6570
+      }
+    ],
+    "declarationTime": "2020-11-11T17:17:25.780+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 75,
+    "totalVotes": 260983,
+    "winner": "R"
+  },
+  "AL": {
+    "candidates": [
+      {
+        "electWon": 9,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 62.5,
+        "votes": 1430589
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 36.4,
+        "votes": 834533
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.1,
+        "votes": 24902
+      }
+    ],
+    "declarationTime": "2020-11-04T01:00:04.537+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 99,
+    "totalVotes": 2290024,
+    "winner": "R"
+  },
+  "AR": {
+    "candidates": [
+      {
+        "electWon": 6,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 62.6,
+        "votes": 755815
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 34.6,
+        "votes": 417897
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.1,
+        "votes": 13039
+      }
+    ],
+    "declarationTime": "2020-11-04T01:30:31.723+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 99,
+    "totalVotes": 1207936,
+    "winner": "R"
+  },
+  "AZ": {
+    "candidates": [
+      {
+        "electWon": 11,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 49.4,
+        "votes": 1655278
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 49.1,
+        "votes": 1642664
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.5,
+        "votes": 50642
+      }
+    ],
+    "declarationTime": "2020-11-04T07:51:56.240+00:00",
+    "flip": "D",
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 99,
+    "totalVotes": 3348584,
+    "winner": "D"
+  },
+  "CA": {
+    "candidates": [
+      {
+        "electWon": 55,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 64.3,
+        "votes": 10268890
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 33.6,
+        "votes": 5368263
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1,
+        "votes": 165257
+      }
+    ],
+    "declarationTime": "2020-11-04T04:00:24.333+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 92,
+    "totalVotes": 15971181,
+    "winner": "D"
+  },
+  "CO": {
+    "candidates": [
+      {
+        "electWon": 9,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 55.3,
+        "votes": 1753416
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 42.1,
+        "votes": 1335253
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.6,
+        "votes": 50469
+      }
+    ],
+    "declarationTime": "2020-11-04T02:37:11.823+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 95,
+    "totalVotes": 3173126,
+    "winner": "D"
+  },
+  "CT": {
+    "candidates": [
+      {
+        "electWon": 7,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 59.3,
+        "votes": 1079223
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 39.2,
+        "votes": 713778
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.1,
+        "votes": 20299
+      }
+    ],
+    "declarationTime": "2020-11-04T01:00:16.290+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 99,
+    "totalVotes": 1820827,
+    "winner": "D"
+  },
+  "DC": {
+    "candidates": [
+      {
+        "electWon": 3,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 93.2,
+        "votes": 285728
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 5.3,
+        "votes": 16306
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 0.6,
+        "votes": 1695
+      }
+    ],
+    "declarationTime": "2020-11-04T02:27:25.310+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 99,
+    "totalVotes": 306543,
+    "winner": "D"
+  },
+  "DE": {
+    "candidates": [
+      {
+        "electWon": 3,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 58.8,
+        "votes": 295403
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 39.8,
+        "votes": 199829
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1,
+        "votes": 4977
+      }
+    ],
+    "declarationTime": "2020-11-04T01:00:16.290+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 99,
+    "totalVotes": 502344,
+    "winner": "D"
+  },
+  "FL": {
+    "candidates": [
+      {
+        "electWon": 29,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 51.2,
+        "votes": 5658847
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 47.9,
+        "votes": 5284453
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 0.6,
+        "votes": 70046
+      }
+    ],
+    "declarationTime": "2020-11-04T05:35:19.980+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 99,
+    "totalVotes": 11043540,
+    "winner": "R"
+  },
+  "GA": {
+    "candidates": [
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 49.5,
+        "votes": 2471899
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 49.2,
+        "votes": 2457791
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.2,
+        "votes": 62052
+      }
+    ],
+    "declarationTime": null,
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 99,
+    "totalVotes": 4991742,
+    "winner": null
+  },
+  "HI": {
+    "candidates": [
+      {
+        "electWon": 4,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 63.7,
+        "votes": 365802
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 34.3,
+        "votes": 196602
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1,
+        "votes": 5525
+      }
+    ],
+    "declarationTime": "2020-11-04T05:06:25.490+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 96,
+    "totalVotes": 573854,
+    "winner": "D"
+  },
+  "IA": {
+    "candidates": [
+      {
+        "electWon": 6,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 53.2,
+        "votes": 897140
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 45,
+        "votes": 758352
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.2,
+        "votes": 19587
+      }
+    ],
+    "declarationTime": "2020-11-04T05:21:25.273+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 99,
+    "totalVotes": 1685219,
+    "winner": "R"
+  },
+  "ID": {
+    "candidates": [
+      {
+        "electWon": 4,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 63.9,
+        "votes": 554019
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 33.1,
+        "votes": 286991
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.9,
+        "votes": 16401
+      }
+    ],
+    "declarationTime": "2020-11-04T04:00:24.333+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 99,
+    "totalVotes": 867226,
+    "winner": "R"
+  },
+  "IL": {
+    "candidates": [
+      {
+        "electWon": 20,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 55.8,
+        "votes": 3056219
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 42.3,
+        "votes": 2316566
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.1,
+        "votes": 59791
+      }
+    ],
+    "declarationTime": "2020-11-04T01:00:16.290+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 92,
+    "totalVotes": 5474496,
+    "winner": "D"
+  },
+  "IN": {
+    "candidates": [
+      {
+        "electWon": 11,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 57.1,
+        "votes": 1725723
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 41,
+        "votes": 1239401
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.9,
+        "votes": 58703
+      }
+    ],
+    "declarationTime": "2020-11-04T01:52:44.453+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 99,
+    "totalVotes": 3023827,
+    "winner": "R"
+  },
+  "KS": {
+    "candidates": [
+      {
+        "electWon": 6,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 56.5,
+        "votes": 752903
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 41.3,
+        "votes": 551144
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 2.2,
+        "votes": 29466
+      }
+    ],
+    "declarationTime": "2020-11-04T02:59:50.210+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 99,
+    "totalVotes": 1333513,
+    "winner": "R"
+  },
+  "KY": {
+    "candidates": [
+      {
+        "electWon": 8,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 62.1,
+        "votes": 1326418
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 36.2,
+        "votes": 772285
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.2,
+        "votes": 26217
+      }
+    ],
+    "declarationTime": "2020-11-04T00:00:33.217+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 99,
+    "totalVotes": 2134996,
+    "winner": "R"
+  },
+  "LA": {
+    "candidates": [
+      {
+        "electWon": 8,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 58.5,
+        "votes": 1255481
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 39.8,
+        "votes": 855597
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1,
+        "votes": 21636
+      }
+    ],
+    "declarationTime": "2020-11-04T02:00:21.880+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 95,
+    "totalVotes": 2147313,
+    "winner": "R"
+  },
+  "MA": {
+    "candidates": [
+      {
+        "electWon": 11,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 65.6,
+        "votes": 2316338
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 32.6,
+        "votes": 1148777
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.3,
+        "votes": 45782
+      }
+    ],
+    "declarationTime": "2020-11-04T01:00:33.410+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 99,
+    "totalVotes": 3529032,
+    "winner": "D"
+  },
+  "MD": {
+    "candidates": [
+      {
+        "electWon": 10,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 64.4,
+        "votes": 1715518
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 33.8,
+        "votes": 900080
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.1,
+        "votes": 28900
+      }
+    ],
+    "declarationTime": "2020-11-04T01:00:16.290+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 93,
+    "totalVotes": 2663583,
+    "winner": "D"
+  },
+  "ME": {
+    "candidates": [
+      {
+        "electWon": 3,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 52.9,
+        "votes": 430023
+      },
+      {
+        "electWon": 1,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 44.2,
+        "votes": 359502
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.7,
+        "votes": 14176
+      }
+    ],
+    "declarationTime": "2020-11-04T08:06:47.300+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 99,
+    "totalVotes": 813317,
+    "winner": "D"
+  },
+  "MI": {
+    "candidates": [
+      {
+        "electWon": 16,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 50.6,
+        "votes": 2790648
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 47.9,
+        "votes": 2644525
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.1,
+        "votes": 60287
+      }
+    ],
+    "declarationTime": "2020-11-04T22:58:25.113+00:00",
+    "flip": "D",
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 99,
+    "totalVotes": 5519346,
+    "winner": "D"
+  },
+  "MN": {
+    "candidates": [
+      {
+        "electWon": 10,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 52.6,
+        "votes": 1718683
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 45.4,
+        "votes": 1485254
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.1,
+        "votes": 34993
+      }
+    ],
+    "declarationTime": "2020-11-04T05:13:56.370+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 99,
+    "totalVotes": 3270046,
+    "winner": "D"
+  },
+  "MO": {
+    "candidates": [
+      {
+        "electWon": 10,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 56.9,
+        "votes": 1711848
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 41.3,
+        "votes": 1242851
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.4,
+        "votes": 40932
+      }
+    ],
+    "declarationTime": "2020-11-04T03:31:43.440+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 99,
+    "totalVotes": 3007744,
+    "winner": "R"
+  },
+  "MS": {
+    "candidates": [
+      {
+        "electWon": 6,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 59.7,
+        "votes": 677218
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 38.8,
+        "votes": 440284
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 0.6,
+        "votes": 7309
+      }
+    ],
+    "declarationTime": "2020-11-04T01:00:04.537+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 99,
+    "totalVotes": 1133539,
+    "winner": "R"
+  },
+  "MT": {
+    "candidates": [
+      {
+        "electWon": 3,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 56.9,
+        "votes": 341767
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 40.6,
+        "votes": 243719
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 2.5,
+        "votes": 15194
+      }
+    ],
+    "declarationTime": "2020-11-04T05:20:28.117+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 99,
+    "totalVotes": 600680,
+    "winner": "R"
+  },
+  "NC": {
+    "candidates": [
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 50.1,
+        "votes": 2736947
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 48.7,
+        "votes": 2663679
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 0.9,
+        "votes": 47669
+      }
+    ],
+    "declarationTime": null,
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 99,
+    "totalVotes": 5467664,
+    "winner": null
+  },
+  "ND": {
+    "candidates": [
+      {
+        "electWon": 3,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 65.5,
+        "votes": 235595
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 31.9,
+        "votes": 114902
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 2.6,
+        "votes": 9393
+      }
+    ],
+    "declarationTime": "2020-11-04T02:00:21.880+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 99,
+    "totalVotes": 359890,
+    "winner": "R"
+  },
+  "NE": {
+    "candidates": [
+      {
+        "electWon": 4,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 58.7,
+        "votes": 550202
+      },
+      {
+        "electWon": 1,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 39.2,
+        "votes": 367919
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 2.1,
+        "votes": 19885
+      }
+    ],
+    "declarationTime": "2020-11-04T02:00:37.397+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 99,
+    "totalVotes": 938006,
+    "winner": "R"
+  },
+  "NH": {
+    "candidates": [
+      {
+        "electWon": 4,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 52.8,
+        "votes": 423291
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 45.6,
+        "votes": 365373
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.6,
+        "votes": 13066
+      }
+    ],
+    "declarationTime": "2020-11-04T03:54:34.470+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 99,
+    "totalVotes": 801730,
+    "winner": "D"
+  },
+  "NJ": {
+    "candidates": [
+      {
+        "electWon": 14,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 57.5,
+        "votes": 2295205
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 41.3,
+        "votes": 1649337
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 0.7,
+        "votes": 27004
+      }
+    ],
+    "declarationTime": "2020-11-04T01:00:33.410+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 89,
+    "totalVotes": 3993690,
+    "winner": "D"
+  },
+  "NM": {
+    "candidates": [
+      {
+        "electWon": 5,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 54.2,
+        "votes": 496826
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 43.6,
+        "votes": 400095
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.4,
+        "votes": 12446
+      }
+    ],
+    "declarationTime": "2020-11-04T02:00:21.880+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 99,
+    "totalVotes": 917155,
+    "winner": "D"
+  },
+  "NV": {
+    "candidates": [
+      {
+        "electWon": 6,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 50.2,
+        "votes": 671887
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 47.5,
+        "votes": 635017
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1,
+        "votes": 13940
+      }
+    ],
+    "declarationTime": "2020-11-07T17:14:12.533+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 95,
+    "totalVotes": 1337217,
+    "winner": "D"
+  },
+  "NY": {
+    "candidates": [
+      {
+        "electWon": 29,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 55.7,
+        "votes": 3716314
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 43,
+        "votes": 2865203
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 0.7,
+        "votes": 48167
+      }
+    ],
+    "declarationTime": "2020-11-04T02:00:21.880+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 80,
+    "totalVotes": 6670886,
+    "winner": "D"
+  },
+  "OH": {
+    "candidates": [
+      {
+        "electWon": 18,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 53.4,
+        "votes": 3074418
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 45.2,
+        "votes": 2603731
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.1,
+        "votes": 65069
+      }
+    ],
+    "declarationTime": "2020-11-04T05:20:00.023+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 96,
+    "totalVotes": 5761250,
+    "winner": "R"
+  },
+  "OK": {
+    "candidates": [
+      {
+        "electWon": 7,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 65.4,
+        "votes": 1018870
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 32.3,
+        "votes": 503289
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.6,
+        "votes": 24686
+      }
+    ],
+    "declarationTime": "2020-11-04T01:00:33.410+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 99,
+    "totalVotes": 1558627,
+    "winner": "R"
+  },
+  "OR": {
+    "candidates": [
+      {
+        "electWon": 7,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 57,
+        "votes": 1304536
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 40.6,
+        "votes": 928706
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.7,
+        "votes": 39367
+      }
+    ],
+    "declarationTime": "2020-11-04T04:00:24.333+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 98,
+    "totalVotes": 2288626,
+    "winner": "D"
+  },
+  "PA": {
+    "candidates": [
+      {
+        "electWon": 20,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 49.8,
+        "votes": 3379191
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 49.1,
+        "votes": 3330127
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.1,
+        "votes": 77979
+      }
+    ],
+    "declarationTime": "2020-11-07T16:25:24.340+00:00",
+    "flip": "D",
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 99,
+    "totalVotes": 6787297,
+    "winner": "D"
+  },
+  "RI": {
+    "candidates": [
+      {
+        "electWon": 4,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 59.4,
+        "votes": 300325
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 39.1,
+        "votes": 197421
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1,
+        "votes": 4976
+      }
+    ],
+    "declarationTime": "2020-11-04T01:00:33.410+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 99,
+    "totalVotes": 505201,
+    "winner": "D"
+  },
+  "SC": {
+    "candidates": [
+      {
+        "electWon": 9,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 55.1,
+        "votes": 1384852
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 43.4,
+        "votes": 1091348
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.1,
+        "votes": 27908
+      }
+    ],
+    "declarationTime": "2020-11-04T00:56:30.293+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 99,
+    "totalVotes": 2512874,
+    "winner": "R"
+  },
+  "SD": {
+    "candidates": [
+      {
+        "electWon": 3,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 61.8,
+        "votes": 261035
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 35.6,
+        "votes": 150467
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 2.6,
+        "votes": 11095
+      }
+    ],
+    "declarationTime": "2020-11-04T02:00:21.880+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 94,
+    "totalVotes": 422597,
+    "winner": "R"
+  },
+  "TN": {
+    "candidates": [
+      {
+        "electWon": 11,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 60.7,
+        "votes": 1849211
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 37.4,
+        "votes": 1139666
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1,
+        "votes": 29816
+      }
+    ],
+    "declarationTime": "2020-11-04T01:00:16.290+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 99,
+    "totalVotes": 3045482,
+    "winner": "R"
+  },
+  "TX": {
+    "candidates": [
+      {
+        "electWon": 38,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 52.2,
+        "votes": 5865913
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 46.4,
+        "votes": 5218631
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.1,
+        "votes": 125282
+      }
+    ],
+    "declarationTime": "2020-11-04T06:06:10.433+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 99,
+    "totalVotes": 11242976,
+    "winner": "R"
+  },
+  "US": {
+    "candidates": [
+      {
+        "electWon": 290,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 50.8,
+        "votes": 77033649
+      },
+      {
+        "electWon": 217,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 47.5,
+        "votes": 71961860
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.2,
+        "votes": 1783308
+      }
+    ],
+    "declarationTime": "2020-11-07T16:25:54.297+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 0,
+    "totalVotes": 151555868,
+    "winner": "D"
+  },
+  "UT": {
+    "candidates": [
+      {
+        "electWon": 6,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 58.3,
+        "votes": 818784
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 37.6,
+        "votes": 527607
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 2.5,
+        "votes": 35275
+      }
+    ],
+    "declarationTime": "2020-11-04T04:08:01.090+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 95,
+    "totalVotes": 1403472,
+    "winner": "R"
+  },
+  "VA": {
+    "candidates": [
+      {
+        "electWon": 13,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 54.1,
+        "votes": 2379830
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 44.4,
+        "votes": 1952834
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.5,
+        "votes": 63973
+      }
+    ],
+    "declarationTime": "2020-11-04T00:36:50.280+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 99,
+    "totalVotes": 4396637,
+    "winner": "D"
+  },
+  "VT": {
+    "candidates": [
+      {
+        "electWon": 3,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 66.4,
+        "votes": 242805
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 30.8,
+        "votes": 112688
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1,
+        "votes": 3573
+      }
+    ],
+    "declarationTime": "2020-11-04T00:00:48.153+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 99,
+    "totalVotes": 365443,
+    "winner": "D"
+  },
+  "WA": {
+    "candidates": [
+      {
+        "electWon": 12,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 58.5,
+        "votes": 2341901
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 38.9,
+        "votes": 1555447
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 2,
+        "votes": 78280
+      }
+    ],
+    "declarationTime": "2020-11-04T04:00:24.333+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 99,
+    "totalVotes": 4000517,
+    "winner": "D"
+  },
+  "WI": {
+    "candidates": [
+      {
+        "electWon": 10,
+        "isIncumbent": false,
+        "isWinner": true,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 49.6,
+        "votes": 1630570
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": true,
+        "isWinner": false,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 48.9,
+        "votes": 1610030
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.2,
+        "votes": 38415
+      }
+    ],
+    "declarationTime": "2020-11-04T19:16:45.203+00:00",
+    "flip": "D",
+    "isRunoff": false,
+    "leader": "D",
+    "reporting": 99,
+    "totalVotes": 3289474,
+    "winner": "D"
+  },
+  "WV": {
+    "candidates": [
+      {
+        "electWon": 5,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 68.7,
+        "votes": 539610
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 29.6,
+        "votes": 232502
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 1.3,
+        "votes": 10462
+      }
+    ],
+    "declarationTime": "2020-11-04T00:30:05.057+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 99,
+    "totalVotes": 785121,
+    "winner": "R"
+  },
+  "WY": {
+    "candidates": [
+      {
+        "electWon": 3,
+        "isIncumbent": true,
+        "isWinner": true,
+        "name": "Donald Trump",
+        "party": "R",
+        "share": 70.4,
+        "votes": 193454
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Joe Biden",
+        "party": "D",
+        "share": 26.7,
+        "votes": 73445
+      },
+      {
+        "electWon": 0,
+        "isIncumbent": false,
+        "isWinner": false,
+        "name": "Jo Jorgensen",
+        "party": "O",
+        "share": 2.1,
+        "votes": 5765
+      }
+    ],
+    "declarationTime": "2020-11-04T02:00:21.880+00:00",
+    "flip": false,
+    "isRunoff": false,
+    "leader": "R",
+    "reporting": 97,
+    "totalVotes": 274872,
+    "winner": "R"
+  }
+}
